@@ -3,212 +3,212 @@
 {
     "index": 0,
     "autor": "Yassin",
-    "fgwork": "You work as a Randi and earn"
+    "fgwork": "Du arbeitest als Randi und verdienst"
   },
   {
     "index": 1,
     "autor": "Yassin",
-    "fgwork": "He works for a private military company, earning"
+    "fgwork": "Er arbeitet für eine private Militärfirma und verdient"
   }, 
   {
     "index": 2,
     "autor": "Yassin",
-    "fgwork": "Organize a wine tasting event and get"
+    "fgwork": "Sie haben eine Weinprobe organisiert und erhalten"
   }, 
   {
   "index": 3,
     "autor": "Yassin",
-    "fgwork": "You are kidnapped and taken to an underground coliseum where you fought monsters with people you have never met before. Desire"
+    "fgwork": "Sie werden entführt und in ein unterirdisches Kolosseum gebracht, wo Sie mit Menschen, die Sie noch nie zuvor getroffen haben, gegen Monster kämpfen. Wunsch"
   }, 
   {
   "index": 4,
     "autor": "Yassin",
-    "fgwork": "You clean the chimney and find"
+    "fgwork": "Sie reinigen den Schornstein und finden"
   }, 
   {
   "index": 5,
     "autor": "Yassin",
-    "fgwork": "You develop games for a living and you win"
+    "fgwork": "Sie entwickeln Spiele für Ihren Lebensunterhalt und Sie gewinnen"
   }, 
   {
   "index": 6,
     "autor": "Yassin",
-    "fgwork": "Why is this command called work? You're not even doing anything work related. however you win"
+    "fgwork": "Warum wird dieser Befehl als Arbeit bezeichnet? Sie tun nicht einmal etwas, das mit Arbeit zu tun hat. trotzdem gewinnen Sie"
   }, 
   {
   "index": 7,
     "autor": "Yassin",
-    "fgwork": "You worked in the office overtime for"
+    "fgwork": "Sie haben im Büro Überstunden gemacht, sie verdienen"
   }, 
   {
   "index": 8,
     "autor": "Yassin",
-    "fgwork": "You work as a bride kidnapper and earn"
+    "fgwork": "Sie arbeiten als Entführer und verdienen"
   }, 
   {
   "index": 9,
     "autor": "Yassin",
-    "fgwork": "Someone came and put on a play. for looking they gave you"
+    "fgwork": "Sie erhalten für die Nutzung von HadesBot"
   }, 
  {
  "index": 10,
     "autor": "Yassin",
-    "fgwork": "You bought and sold items and Earned"
+    "fgwork": "Sie kauften und verkauften Gegenstände und verdienten"
   }, 
   {
   "index": 11,
     "autor": "Yassin",
-    "fgwork": "You work in Grandma's restaurant as a cook and earn"
+    "fgwork": "Du arbeitest in Großmutters Restaurant als Koch und verdienst"
   }, 
   {
   "index": 12,
     "autor": "Yassin",
-    "fgwork": "You work 10 minutes at a local Pizza Hut. wins"
+    "fgwork": "Du arbeitest in einem Pizza Hut und verdienst"
   }, 
   {
   "index": 13,
     "autor": "Yassin",
-    "fgwork": "You work as a fortune cookie writer and earn"
+    "fgwork": "Sie arbeiten als Glückskeksschreiber und verdienen"
   }, 
   {
   "index": 14,
     "autor": "Yassin",
-    "fgwork": "You go through your bag and decide to sell some useless items that you don't need. Turns out all that crap was worth"
+    "fgwork": "Du durchsuchst deine Tasche und beschließt, einige nutzlose Dinge zu verkaufen, die du nicht brauchst. Es stellt sich heraus, dass der ganze Mist wertvoll war."
   }, 
   {
   "index": 15,
     "autor": "Yassin",
-    "fgwork": "You see someone struggling to get a box into their car, you rush to help them before they get hurt. After helping them, they kindly give you"
+    "fgwork": "Sie sehen, wie sich jemand abmüht, einen Karton in sein Auto zu packen, und eilen ihm zu Hilfe, bevor er sich verletzt. Nachdem du ihnen geholfen hast, geben sie dir freundlicherweise"
   }, 
   {
   "index": 16, 
     "autor": "Yassin",
-    "fgwork": "You develop games for a living and you win"
+    "fgwork": "Sie entwickeln beruflich Spiele und gewinnen"
   }, 
   {
   "index": 17,
     "autor": "Yassin",
-    "fgwork": "You work all day in the company for"
+    "fgwork": "Sie arbeiten den ganzen Tag in der Firma für"
   }, 
   {
   "index": 18, 
     "autor": "Yassin",
-    "fgwork": "You help moderate the Bakaga group by"
+    "fgwork": "Sie helfen bei der Moderation der Bakaga-Gruppe, indem Sie"
   }, 
   {
   "index": 19, 
     "autor": "Yassin",
-    "fgwork": "You designed a logo for *GURU* AND got"
+    "fgwork": "Sie haben ein Logo für *Yassin* entworfen und erhalten"
   }, 
   {
   "index": 20,
     "autor": "Yassin",
-    "fgwork": "You moderated the group when *GURU* was not there, the payment was"
+    "fgwork": "Sie haben die Gruppe moderiert, als *Yassin* nicht da war, sie erhalten"
   }, 
   {
   "index": 21,
     "autor": "Yassin",
-    "fgwork": "He worked to the best of his ability at a printing company that was hiring and earned his fair share!"
+    "fgwork": "Er arbeitete nach bestem Wissen und Gewissen in einer Druckerei, die Mitarbeiter einstellte, und verdiente seinen gerechten Anteil!"
   }, 
   {
   "index": 22,
     "autor": "Yassin",
-    "fgwork": "You work as a trimmer for *GURU* and earn"
+    "fgwork": "Sie arbeiten als Friseur für *Yassin* und verdienen"
   }, 
   {
   "index": 23,
     "autor": "Yassin",
-    "fgwork": "The demand for mobile games has increased, so you create a new game full of micro-transactions. With your new game you earn a total of"
+    "fgwork": "Die Nachfrage nach Handyspielen ist gestiegen, also erstellen Sie ein neues Spiel voller Mikrotransaktionen. Mit Ihrem neuen Spiel verdienen Sie insgesamt"
   }, 
   {
   "index": 24,
     "autor": "Yassin",
-    "fgwork": "You work as a voice actor for Spongebob and you managed to win"
+    "fgwork": "Du arbeitest als Synchronsprecher für Spongebob und hast es geschafft, du bekommst"
   }, 
   {
   "index": 25,
     "autor": "Yassin",
-    "fgwork": "You were farming and you won"
+    "fgwork": "Sie waren Landwirt und verdienen"
   }, 
   {
   "index": 26,
     "autor": "Yassin",
-    "fgwork": "You work as a sandcastle builder and earn"
+    "fgwork": "Sie arbeiten als Sandburgenbauer und verdienen"
   }, 
   {
   "index": 27,
     "autor": "Yassin",
-    "fgwork": "You work as a street artist and earn"
+    "fgwork": "Sie arbeiten als Straßenkünstler und verdienen"
   }, 
   {
   "index": 28, 
     "autor": "Yassin",
-    "fgwork": "You did social work for a good cause! for your good cause you received"
+    "fgwork": "Du hast Sozialarbeit für eine gute Sache geleistet! für deine gute Sache bekommst du"
   }, 
   {
   "index": 29, 
     "autor": "Yassin",
-    "fgwork": "Repaired a disabled T-60 tank in Afghanistan. The crew paid you"
+    "fgwork": "Sie haben in Afghanistan einen defekten T-60-Panzer repariert. Die Besatzung gibt ihnen"
   }, 
   {
   "index": 30, 
     "autor": "Yassin",
-    "fgwork": "You work as an ecologist and earn"
+    "fgwork": "Sie arbeiten als Ökologe und verdienen"
   }, 
   {
   "index": 31, 
     "autor": "Yassin",
-    "fgwork": "You work at Disneyland as a panda in a costume and you earn"
+    "fgwork": "Du arbeitest in Disneyland als Panda in einem Kostüm und verdienst"
   }, 
   {
   "index": 32, 
     "autor": "Yassin",
-    "fgwork": "You repair the arcade machines and receive"
+    "fgwork": "Du reparierst die Spielautomaten und erhältst"
   }, 
   {
   "index": 33, 
     "autor": "Yassin",
-    "fgwork": "You did some odd jobs around town and you won"
+    "fgwork": "Du hast ein paar Gelegenheitsjobs in der Stadt erledigt und hast insgesamt"
   }, 
   {
   "index": 34, 
     "autor": "Yassin",
-    "fgwork": "You clean some toxic mold from the vent and win"
+    "fgwork": "Sie entfernen giftigen Schimmel aus dem Lüftungsschacht und erhalten"
   }, 
   {
   "index": 35, 
     "autor": "Yassin",
-    "fgwork": "You solved the mystery of the cholera outbreak and the government rewarded you with a sum of"
+    "fgwork": "Sie haben das Rätsel um den Ausbruch der Cholera gelöst und die Regierung hat Sie mit einer Summe von"
   }, 
   {
   "index": 36, 
     "autor": "Yassin",
-    "fgwork": "You worked as a zoologist and earn"
+    "fgwork": "Sie haben als Zoologe gearbeitet und verdienen"
   }, 
   {
   "index": 37, 
     "autor": "Yassin",
-    "fgwork": "You worked and you earned"
+    "fgwork": "Du hast gearbeitet und verdient"
   }, 
   {
   "index": 38, 
     "autor": "Yassin",
-    "fgwork": "You sold fish sandwiches and got"
+    "fgwork": "Sie verkauften Fischsandwiches und erhielten"
   }, 
   {
   "index": 39, 
     "autor": "Yassin",
-    "fgwork": "You repair the arcade machines and receive"
+    "fgwork": "Sie reparieren die Spielautomaten und erhalten"
   }, 
   {
   "index": 40, 
     "autor": "Yassin",
-    "fgwork": "Just for being in *GURUY-BOT*  group!"
+    "fgwork": "Du erhälst fürs schreiben"
   }, 
   {
   "index": 41, 
     "autor": "Yassin",
-    "fgwork": "You did some social work for a good cause! Did you receive!"
+    "fgwork": "Sie haben Sozialarbeit für einen guten Zweck geleistet! Sie erhalten"
   }
   
 ] 
